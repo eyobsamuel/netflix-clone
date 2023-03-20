@@ -52,4 +52,4 @@ html {
 - npm i @prisma/client
 - npm i next-auth
 - npm i @next-auth/prisma-adapter
-- npm i swr
+- npm i swr.

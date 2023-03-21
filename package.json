@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "lint:check": "eslint --ext ts,tsx components/",
-    "lint:fix": "eslint --fix --ext ts,tsx components/",
+    "lint:check": "eslint --ext ts,tsx hooks/",
+    "lint:fix": "eslint --fix --ext ts,tsx hooks/",
     "prettier": "prettier --check \"components/**/(*.tsx|*.ts|*.css|*.scss)\"",
     "prettier:fix": "prettier --write \"components/**/(*.tsx|*.ts|*.css|*.scss)\""
   },
